@@ -20,6 +20,7 @@ At the end of the quiz, you will receive a score and feedback.
 What is the time complexity of binary search?
 Which of the following is not an OOP principle?
 What is the default value of a boolean in Java?
+
 Feel free to contribute by adding more questions or improving the functionality!
 
 
